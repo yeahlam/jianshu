@@ -7,7 +7,7 @@ export class componentName extends Component {
         <div className={css.logo}></div>
         <div className={css.headerMain}>
           <div className={[css.navItem,css.left,css.active].join(' ')}>首页</div>
-          <div className={[css.navItem,css.left].join(' ')}>下载APP</div>
+          <div className={[css.navItem,css.left].join(' ')}>下载APP1</div>
           <div className={[css.navItem,css.left].join(' ')}>
             <div className={css.searchbox}>
               <input className={css.serchInput} placeholder="请输入"></input>
